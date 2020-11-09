@@ -1,1 +1,1 @@
-# fruitslice
+Fruit slice game 
